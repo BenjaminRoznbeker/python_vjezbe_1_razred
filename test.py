@@ -1,1 +1,0 @@
-print('ghfkjnlcxkb/klszhndgl;rdl.f')
